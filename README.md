@@ -1,4 +1,4 @@
-# Insta
+# Instagram Clone
 
 Bu proje, Instagram benzeri bir web uygulamasının basit bir HTML şablonunu içermektedir.
 
